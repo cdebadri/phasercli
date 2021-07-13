@@ -1,6 +1,6 @@
-import * as Phaser from 'phaser';
+import { Scene } from 'phaser';
 
-export default class PlayScene extends Phaser.Scene {
+export default class PlayScene extends Scene {
   constructor() {
     super({ key: 'PlayScene' });
   }

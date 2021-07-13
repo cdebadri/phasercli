@@ -1,12 +1,12 @@
-import * as Phaser from 'phaser';
+import { Game, AUTO } from 'phaser';
 import PlayScene from './src/scenes/PlayScene';
 
 const config = {
   name: 'app',
-  type: Phaser.AUTO,
+  type: AUTO,
   width: 800,
   height: 600,
   scene: [PlayScene],
 };
 
-window.game = new Phaser.Game(config);
+window.game = new Game(config);
