@@ -1,5 +1,5 @@
 
-# phasercli 
+# @cdebadri/phasercli 
 ![Build Status](https://travis-ci.com/cdebadri/phasercli.svg?token=NKnTQscJ8wzsopUqPsxL&branch=main)
 
 
@@ -7,10 +7,10 @@ This is a cli tool to easily setup a development environment using Phaser 3 and 
 
 **Installation**
 
-    npm i -g phasercli
+    npm i -g @cdebadri/phasercli
 OR
 
-    yarn global add phasercli
+    yarn global add @cdebadri/phasercli
 
 **Usage**
 
