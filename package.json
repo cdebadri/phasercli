@@ -1,5 +1,5 @@
 {
-  "name": "phasercli",
+  "name": "phaser-cli",
   "version": "1.0.0",
   "description": "A CLI starter for Phaser 3 with Webpack",
   "main": "index.js",
